@@ -1,0 +1,10 @@
+---
+
+## **`requirements.txt`**
+
+```txt
+requests
+beautifulsoup4
+pandas
+openpyxl
+
