@@ -19,5 +19,5 @@ A Python-based web scraper that extracts product data such as name, price, ratin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/price-tracker.git
-cd price-tracker
+git clone https://github.com/CodeNet12/Simple-web-scraper.git
+cd Simple-web-scraper
